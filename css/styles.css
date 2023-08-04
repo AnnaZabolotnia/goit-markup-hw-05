@@ -600,6 +600,7 @@ img {
   letter-spacing: 0.04em;
   border-radius: 4px;
   background: var(--iris, #4d5ae5);
+  position: relative;
 }
 
 .submit-icon {
@@ -607,9 +608,6 @@ img {
   right: 24px;
   top: 50%;
   transform: translateY(-50%);
-}
-.footer-submit-wrap {
-  position: relative;
 }
 
 /* =============Gallery========= */
