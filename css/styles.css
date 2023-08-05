@@ -873,11 +873,7 @@ img {
   display: flex;
   align-items: center;
 }
-.label-span {
-  width: 16px;
-  height: 16px;
-  display: inline-flex;
-}
+
 .modal-check-ikon {
   outline: transparent;
 }
